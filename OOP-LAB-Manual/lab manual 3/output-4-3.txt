@@ -1,0 +1,2 @@
+Second smallest number is: 5
+Second largest number is: 17
