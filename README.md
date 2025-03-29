@@ -33,12 +33,12 @@ Quizzes: Engage in quizzes to check your comprehension of Java fundamentals.
 
 
 ## Social Media & Connect 🌐
-**GitHub Repository:** Java Fundamentals (ITP)
+GitHub Repository: [Java Fundamentals (ITP)](https://github.com/UmarBytes/INTRODUCTION-TO-PROGRAMING-ITP)
 
-**Fiverr:** UmarFarooq on Fiverr – Need help with NLP, AI, ML, Deep Learning, LLMs, Data Science, or Computer Science? Let's collaborate!
+**Fiverr:** [UmarFarooq on Fiverr](https://www.fiverr.com/umarfarooq872?public_mode=true) – Need help with NLP, AI, ML, Deep Learning, LLMs, Data Science, or Computer Science? Let's collaborate!
 
-**Facebook:** Umar Gujjar – Stay connected for updates and support.
+**Facebook:** [Umar Gujjar](https://www.facebook.com/mumar.gujjar.923?_rdc=1&_rdr#) – Stay connected for updates and support.
 
-**YouTube:** UmarBytes of Life – Tune in for tutorials, guides, and programming discussions.
+**YouTube:** [UmarBytes of Life](https://www.youtube.com/@UmarBytesoflife) – Tune in for tutorials, guides, and programming discussions.
 
-**ORCID ID:** Umar’s ORCID Profile – Explore my research papers and academic contributions.
+**ORCID ID:** [Umar’s ORCID Profile](https://orcid.org/my-orcid?orcid=0009-0008-0919-6720) – Explore my research papers and academic contributions.
