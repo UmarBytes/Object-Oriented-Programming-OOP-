@@ -7,7 +7,7 @@ Welcome to Java Fundamentals! This repository is a comprehensive resource for an
 
 ### GUI with Java 💻: In-depth explanations on how to create dynamic and interactive Graphical User Interfaces using Java.
 
-###Java Practice Exercises 🧑‍💻: Essential Java exercises to reinforce your understanding and improve coding skills.
+###Java Practice Exercises 🧑‍💻: Essential Java exercises to reinforce your understanding and improve coding skills. 
 
 ### Theoretical Insights 💡: A solid foundation of Object-Oriented Programming (OOP) theories to enhance conceptual clarity.
 
